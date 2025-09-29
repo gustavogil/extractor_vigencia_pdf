@@ -1,0 +1,25 @@
+{
+  "source_file": "ir_output/09_ir.json",
+  "doc_id": "5d28803b399c",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "sentence": "GUSTAVO LEÓN MOJICA GARCÍA\n1.4 Objeto de la contratación\nAdquisición de Material de Curación\n1.4.1 Entrega de los insumos\nVigencia del contrato: En apego al artículo 49 de la Ley de Adquisiciones, Arrendamientos y Servicios del\nSector público, con la notificación del fallo por el que se adjudica el contrato, las obligaciones derivadas\nde éste serán exigibles, sin perjuicio de la obligación de las partes de firmarlo en el plazo y términos\nseñalados en la Ley; Deberá de ser a partir de la notificación del fallo de adjudicación de esta\nconvocatoria hasta el treinta y uno de diciembre de dos mil veinticinco.",
+      "matches": [
+        {
+          "text": "treinta y uno de diciembre",
+          "category": "nombre_completo_flexible"
+        }
+      ]
+    },
+    {
+      "sentence": "Los montos mínimos y máximos son los siguientes:\nADQUISICIÓN DE MATERIAL DE CURACION\na partir de la fecha del fallo hasta el día treinta y uno de diciembre del dos mil veinticinco\n± Importe\nENTE REQUIRENTE\nmínimo máximo\nDIRECCIÓN DEL ÁREA DE LA JURISDICCIÓN SANITARIA I $951,192.10 $2,377,980.25\nDIRECCIÓN DEL ÁREA DE LA JURISDICCIÓN SANITARIA II $782,771.60 $1,956,929.00\nDIRECCIÓN DEL ÁREA DE LA JURISDICCIÓN SANITARIA III $454,911.96 $1,137,279.91\nHOSPITAL DE LA MUJER $5,122,277.93 $12,805,694.82\nHOSPITAL GENERAL DE CALVILLO $2,026,000.00 $5,065,000.00\nHOSPITAL GENERAL DE PABELLÓN DE ARTEAGA $1,219,811.60 $3,049,529.00\nHOSPITAL GENERAL DE RINCÓN DE ROMOS $2,442,422.00 $6,106,055.00\nHOSPITAL GENERAL TERCER MILENIO $4,927,477.93 $12,318,694.82\nCENTENARIO HOSPITAL MIGUEL HIDALGO $4,960,021.61 $12,400,054.02\nHOSPITAL DE PSIQUIATRÍA DR.",
+      "matches": [
+        {
+          "text": "treinta y uno de diciembre",
+          "category": "nombre_completo_flexible"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "ir_version": "1.0",
+  "created_at": "2025-09-28T11:19:11+00:00",
+  "source": {
+    "path": "/Users/gustavogil/extractor_vigencia_pdf/input_docs/00.pdf",
+    "filename": "00.pdf",
+    "sha1": "e9683359b7795b24b5a3ffc38e98a436f9d9008a",
+    "mimetype": "application/pdf"
+  },
+  "doc_id": "e9683359b779",
+  "document": {
+    "paragraphs": [
+      {
+        "index": 0,
+        "text": "062003 – H. AYUNTAMIENTO DE LOS CABOS",
+        "page": 1
+      },
+      {
+        "index": 1,
+        "text": "RESUMEN DE CONVOCATORIA",
+        "page": 1
+      },
+      {
+        "index": 2,
+        "text": "Licitación Pública NACIONAL, con forma de participación PRESENCIAL",
+        "page": 1
+      },
+      {
+        "index": 3,
+        "text": "De conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se convoca a los",
+        "page": 1
+      },
+      {
+        "index": 4,
+        "text": "interesados a participar en la Licitación Pública NACIONAL número LA-62-003-803008998-N-19-2025, cuya",
+        "page": 1
+      },
+      {
+        "index": 5,
+        "text": "Convocatoria que contiene las bases de participación disponibles para consulta en Internet: https://upcp-",
+        "page": 1
+      },
+      {
+        "index": 6,
+        "text": "compranet.buengobierno.gob.mx/ o bien en Boulevard Antonio Mijares 1413, Colonia Centro, C.P. 23400, San José",
+        "page": 1
+      },
+      {
+        "index": 7,
+        "text": "Del Cabo, Baja California Sur, a partir del día 10 de Abril del 2025 dentro del horario de 08:00 horas a las 14:00 horas.",
+        "page": 1
+      },
+      {
+        "index": 8,
+        "text": "Nombre del Procedimiento de contratación ADQUISICIÓN DE MATERIAL DE ASEO Y LIMPIEZA PARA LA",
+        "page": 1
+      },
+      {
+        "index": 9,
+        "text": "COORDINACIÓN MUNICIPAL DE ZOFEMAT.",
+        "page": 1
+      },
+      {
+        "index": 10,
+        "text": "Volumen a adquirir Los detalles se determinan en la propia convocatoria",
+        "page": 1
+      },
+      {
+        "index": 11,
+        "text": "Fecha de publicación en CompraNet 10 de Abril de 2025",
+        "page": 1
+      },
+      {
+        "index": 12,
+        "text": "Fecha y hora de junta de aclaraciones 15 de Abril del 2025 a las 11:00 horas",
+        "page": 1
+      },
+      {
+        "index": 13,
+        "text": "Fecha y hora de presentación y apertura de proposiciones 22 de Abril del 2025 a las 11:00 horas",
+        "page": 1
+      },
+      {
+        "index": 14,
+        "text": "Fecha y hora de fallo 25 de Abril del 2025 a las 12:00 horas",
+        "page": 1
+      },
+      {
+        "index": 15,
+        "text": "10 de Abril de 2025",
+        "page": 1
+      },
+      {
+        "index": 16,
+        "text": "C. JESÚS RODRÍGUEZ PIÑA",
+        "page": 1
+      },
+      {
+        "index": 17,
+        "text": "COORDINADOR DE LA UNIDAD ADMINISTRATIVA DE PROCEDIMIENTOS DE LICITACIONES Y CONTRATOS.",
+        "page": 1
+      }
+    ],
+    "tables": [
+      {
+        "table_id": "t0",
+        "rows": 6,
+        "cols": 2,
+        "data": [
+          [
+            "Nombre del Procedimiento de contratación",
+            "ADQUISICIÓN DE MATERIAL DE ASEO Y LIMPIEZA PARA LA COORDINACIÓN MUNICIPAL DE ZOFEMAT."
+          ],
+          [
+            "Volumen a adquirir",
+            "Los detalles se determinan en la propia convocatoria"
+          ],
+          [
+            "Fecha de publicación en CompraNet",
+            "10 de Abril de 2025"
+          ],
+          [
+            "Fecha y hora de junta de aclaraciones",
+            "15 de Abril del 2025 a las 11:00 horas"
+          ],
+          [
+            "Fecha y hora de presentación y apertura de proposiciones",
+            "22 de Abril del 2025 a las 11:00 horas"
+          ],
+          [
+            "Fecha y hora de fallo",
+            "25 de Abril del 2025 a las 12:00 horas"
+          ]
+        ],
+        "page": 1
+      }
+    ]
+  },
+  "stats": {
+    "paragraph_count": 18,
+    "table_count": 1,
+    "page_count": 1
+  },
+  "pdf_metadata": {
+    "Author": "python-docx",
+    "Creator": "Microsoft® Word LTSC",
+    "CreationDate": "D:20250410143309-07'00'",
+    "ModDate": "D:20250410143309-07'00'",
+    "Producer": "Microsoft® Word LTSC"
+  }
+}

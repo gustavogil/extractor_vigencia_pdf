@@ -1,0 +1,33 @@
+{
+  "source_file": "ir_output/05_ir.json",
+  "doc_id": "d6b1638da7e1",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "sentence": "A partir Hasta\nA partir de la firma del contrato 31 diciembre de 2025\nDe conformidad con lo establecido en los artículos 36 y 36 Bis de la LEY,\nuna vez efectuada la evaluación de las PROPOSICIONES, los contratos\nADJUDICACIÓN DEL se adjudicarán al(los) INVITADO(S) cuya(s) oferta(s) resulte(n)\nPágina 14 de 107\nCONTRATO: solvente(s), porque cumple con los requisitos legales, técnicos y\neconómicos establecidos en esta CONVOCATORIA.",
+      "matches": [
+        {
+          "text": "31 diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 diciembre de 2025",
+          "category": "con_año"
+        }
+      ]
+    },
+    {
+      "sentence": "Los productos que no requieran registro\nsanitario deberán presentar copia de la publicación del DOF del 31 de dic del 2011 y 22 de dic del\n2014, debidamente referenciado con el número de partida que aplique.",
+      "matches": [
+        {
+          "text": "31 de dic",
+          "category": "nombre_abreviado_flexible"
+        },
+        {
+          "text": "31 de dic del 2011",
+          "category": "con_año"
+        }
+      ]
+    }
+  ]
+}

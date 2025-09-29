@@ -1,0 +1,33 @@
+{
+  "source_file": "ir_output/10_ir.json",
+  "doc_id": "be7150dd8816",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "sentence": "ANTONIO FRAGA MOURET,\nCENTRO MÉDICO NACIONAL LA RAZA,\nCIUDAD DE MÉXICO,\nDEPARTAMENTO DE ABASTECIMIENTO\nINVITACION A CUANDO MENOS TRES PERSONAS NACIONAL\nIA-50-GYR-050GYR055-T-33-2025\nEL CONTRATO/PEDIDO QUE SE DERIVE DEL PRESENTE PROCEDIMIENTO DE ADQUISICIÓN DE\n““ADQUISICION DE CONSUMIBLES PARA BOMBAS DE INFUSIÓN EN COMODATO PARA EL\nEJERCICIO 2025”, SERÁ ABIERTO Y TENDRÁ VIGENCIA DEL A PARTIR DEL DÍA HABIL SIGUIENTE DEL\nFALLO AL 31 DE DICIEMBRE DE 2025.",
+      "matches": [
+        {
+          "text": "31 DE DICIEMBRE",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 DE DICIEMBRE DE 2025",
+          "category": "con_año"
+        }
+      ]
+    },
+    {
+      "sentence": "EL (LOS) CONTRATO(S) Y/O PEDIDO(S) QUE, EN SU CASO, SEA(N) FORMALIZADO(S) CON MOTIVO DE ESTE\nPROCEDIMIENTO DE CONTRATACIÓN CONTARÁ(N) CON UN PERÍODO DE VIGENCIA A PARTIR DEL FALLO\nY HASTA EL 31 DE DICIEMBRE DE 2025.",
+      "matches": [
+        {
+          "text": "31 DE DICIEMBRE",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 DE DICIEMBRE DE 2025",
+          "category": "con_año"
+        }
+      ]
+    }
+  ]
+}

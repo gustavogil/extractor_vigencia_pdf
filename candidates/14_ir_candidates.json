@@ -1,0 +1,54 @@
+{
+  "source_file": "ir_output/14_ir.json",
+  "doc_id": "0a9d7e482393",
+  "total_sentences": 3,
+  "sentences": [
+    {
+      "sentence": "I.2- DESCRIPCIÓN DE LOS BIENES POR CONTRATAR Y NORMAS\nAPLICABLES\nOBJETO Y ALCANCE DE LA LICITACIÓN PÚBLICA NACIONAL\nELECTRÓNICA\nEl Instituto llevará a cabo la contratación abierta relativa a la Adquisición\nde “Material de Curación” para el Hospital Regional Morelia, objeto de la\npresente Licitación N° LA-51-GYN-051GYN882-N-2-2025, de conformidad\ncon las necesidades y especificaciones que se señalan en el ANEXO - 1\n(necesidades/propuesta económica) de esta Convocatoria, durante el\nperiodo del 01 primero de Mayo al 31 treinta y uno de Diciembre de 2025\ndos mil veinticinco, periodo de alcance comprendido, conforme a lo\ndispuesto en el segundo Párrafo del Artículo 25 de la “Ley”.",
+      "matches": [
+        {
+          "text": "31 treinta y uno de Diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "treinta y uno de Diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 treinta y uno de Diciembre de 2025",
+          "category": "con_año"
+        }
+      ]
+    },
+    {
+      "sentence": "La verificación que se realizará a los bienes por parte del área requirente\npara su aceptación deberá garantizar por escrito la calidad de los bienes,\npor el periodo comprendido a partir de la fecha de la firma del contrato\nhasta el 31 de Diciembre de 2025.",
+      "matches": [
+        {
+          "text": "31 de Diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 de Diciembre de 2025",
+          "category": "con_año"
+        }
+      ]
+    },
+    {
+      "sentence": "Vigencia de los contratos:\nLa vigencia de los contratos que deriven del presente procedimiento será\na partir del 1 PRIMERO DE MAYO AL 31 TREINTA Y UNO DE DICIEMBRE\nDE 2025 DOS MIL VEINTICINCO.",
+      "matches": [
+        {
+          "text": "31 TREINTA Y UNO DE DICIEMBRE",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "TREINTA Y UNO DE DICIEMBRE",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 TREINTA Y UNO DE DICIEMBRE\nDE 2025",
+          "category": "con_año"
+        }
+      ]
+    }
+  ]
+}

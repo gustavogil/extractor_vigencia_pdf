@@ -1,0 +1,33 @@
+{
+  "source_file": "ir_output/06_ir.json",
+  "doc_id": "27839f9d19fa",
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "sentence": "A partir Hasta\nA partir de la firma del contrato 31 diciembre de 2025\nDe conformidad con lo establecido en los artículos 36 y 36 Bis de la LEY,\nuna vez efectuada la evaluación de las PROPOSICIONES, los contratos\nADJUDICACIÓN DEL se adjudicarán al(los) INVITADO(S) cuya(s) oferta(s) resulte(n)\nCONTRATO: solvente(s), porque cumple con los requisitos legales, técnicos y\neconómicos establecidos en esta CONVOCATORIA.",
+      "matches": [
+        {
+          "text": "31 diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 diciembre de 2025",
+          "category": "con_año"
+        }
+      ]
+    },
+    {
+      "sentence": "VIGENCIA DEL PEDIDO\nLa vigencia del pedido será a partir del día natural siguiente a la notificación del fallo y concluirá el 31 de diciembre del\n2025.",
+      "matches": [
+        {
+          "text": "31 de diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 de diciembre del\n2025",
+          "category": "con_año"
+        }
+      ]
+    }
+  ]
+}

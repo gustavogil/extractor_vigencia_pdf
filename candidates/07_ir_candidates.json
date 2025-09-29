@@ -1,0 +1,20 @@
+{
+  "source_file": "ir_output/07_ir.json",
+  "doc_id": "fa74bc3baec5",
+  "total_sentences": 1,
+  "sentences": [
+    {
+      "sentence": "Vigencia de la contratación y ejercicio presupuestal\nEn este año fiscal, a partir del día de la asignación o fallo hasta 6 meses\nposteriores, así mismo, los equipos en comodato permanecerán en vigencia a partir\ndel día de la asignación o fallo hasta 31 de diciembre de 2025 o hasta que no haya\nexistencia de consumibles en almacén delegacional o almacén de las unidades.",
+      "matches": [
+        {
+          "text": "31 de diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 de diciembre de 2025",
+          "category": "con_año"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source_file": "ir_output/08_ir.json",
+  "doc_id": "025f4da9eed6",
+  "total_sentences": 1,
+  "sentences": [
+    {
+      "sentence": "A partir Hasta\nA partir de la firma del contrato 31 diciembre de 2025\nDe conformidad con lo establecido en los artículos 47 y 48 de la LEY, una\nvez efectuada la evaluación de las PROPOSICIONES, los contratos se\nADJUDICACIÓN DEL adjudicarán al(los) INVITADO(S) cuya(s) oferta(s) resulte(n) solvente(s),\nCONTRATO: porque cumple con los requisitos legales, técnicos y económicos\nestablecidos en esta CONVOCATORIA.",
+      "matches": [
+        {
+          "text": "31 diciembre",
+          "category": "nombre_completo_flexible"
+        },
+        {
+          "text": "31 diciembre de 2025",
+          "category": "con_año"
+        }
+      ]
+    }
+  ]
+}
