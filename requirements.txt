@@ -1,0 +1,19 @@
+# PDF processing
+pdfplumber>=0.7.0
+
+# OpenAI API for LLM processing
+openai>=1.0.0
+
+# PDF reading (alternative library used in 31_dic.py)
+PyPDF2>=3.0.0
+
+# Standard libraries (included with Python)
+# - re
+# - json
+# - typing
+# - os
+# - glob
+# - pathlib
+# - argparse
+# - datetime
+# - hashlib
